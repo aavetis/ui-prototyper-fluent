@@ -9,7 +9,7 @@ This project allows you to create advanced UI prototypes effortlessly using GitH
 2. Install dependencies:
 
 ```bash
-npm install --legacy-peer-deps
+npm install
 ```
 
 3. Run the development server:
