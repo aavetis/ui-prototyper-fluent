@@ -1,4 +1,4 @@
-# UI Prototype Builder
+# {!! WIP !!} UI Prototype Builder
 
 This project allows you to create advanced UI prototypes effortlessly using GitHub Copilot in VS Code's Agent mode. Built with shadcn, React, and Next.js, you can develop sophisticated interfaces without the need for complex prompts.
 
